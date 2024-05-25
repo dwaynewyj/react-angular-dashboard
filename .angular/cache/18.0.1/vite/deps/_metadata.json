@@ -7,25 +7,25 @@
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "beed69b9",
+      "fileHash": "46326e9f",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "c376f2b8",
+      "fileHash": "4143a217",
       "needsInterop": false
     },
     "react": {
       "src": "../../../../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "8f5fd87b",
+      "fileHash": "8f4f9e85",
       "needsInterop": true
     },
     "react-dom": {
       "src": "../../../../../node_modules/react-dom/index.js",
       "file": "react-dom.js",
-      "fileHash": "7f02181c",
+      "fileHash": "5708a6ca",
       "needsInterop": true
     }
   },

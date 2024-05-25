@@ -7,7 +7,7 @@ Angular-React Dashboard is a web-based dashboard application that combines Angul
 
 - Author: Dwayne Zhang
 - Created: 202405241815
-- Updated: 202405241935
+- Updated: 202405241925
 
 ## Features
 

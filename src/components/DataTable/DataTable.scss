@@ -1,0 +1,46 @@
+$border-radius: 4px;
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    border-radius: $border-radius; // Apply border radius
+    overflow: hidden; // Hide overflow for rounded corners
+    margin-top: 20px; // Add some spacing
+}
+
+.data-table th,
+.data-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.data-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.data-table td {
+    font-size: 14px;
+}
+
+.data-table tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.data-table th,
+.data-table td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 600px) {
+
+    .data-table th,
+    .data-table td {
+        font-size: 12px;
+        padding: 6px;
+    }
+}

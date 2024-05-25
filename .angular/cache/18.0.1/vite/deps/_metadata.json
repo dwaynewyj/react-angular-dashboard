@@ -1,0 +1,43 @@
+{
+  "hash": "e5b51864",
+  "configHash": "b1919603",
+  "lockfileHash": "11cb218e",
+  "browserHash": "22a8b5ae",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "beed69b9",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "c376f2b8",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8f5fd87b",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../../../../node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "7f02181c",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-NULHGVON": {
+      "file": "chunk-NULHGVON.js"
+    },
+    "chunk-BLIBLZYS": {
+      "file": "chunk-BLIBLZYS.js"
+    },
+    "chunk-WKYGNSYM": {
+      "file": "chunk-WKYGNSYM.js"
+    }
+  }
+}

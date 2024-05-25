@@ -1,4 +1,4 @@
-# Angular-React Dashboard
+# React-Angular Dashboard
 
 
 ## Overview

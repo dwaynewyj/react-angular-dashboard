@@ -5,7 +5,7 @@
 
 React-Angular Dashboard is a web-based dashboard application that combines React and Angular to create a responsive and interactive dashboard with real-time data updates. The application integrates a React datatable into an Angular framework and utilizes WebSocket for handling asynchronous data calls.
 
-- Author: Dwayne Zhang
+- Author: Dwayne Jang
 - Created: 202405241815
 - Updated: 202405241925
 
